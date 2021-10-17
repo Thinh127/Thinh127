@@ -1,4 +1,4 @@
-### Hi, i'm Thinh. 
+### Hi, i'm Thinh 👋
 
 <h4 align="left">Connect with me:</h4>
 
