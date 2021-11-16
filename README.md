@@ -5,7 +5,7 @@ My target in 2021
 - [ ] Coding a project CI/CD pipeline.
 - [ ] Create first repo storing data pineline using python.
 - [ ] Mini project about airflow.
-- [ ] A insightful kaggle notebook.
+- [ ] A insightful kaggle notebook.(Domain economic, notebook and excel dashboard)
 
 <h4 align="left">Connect with me:</h4>
 
