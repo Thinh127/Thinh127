@@ -1,7 +1,7 @@
 ### Hi, i'm Thinh 👋
 
-My target in 2021
-- [ ] Done HMM model.
+My target in 2022
+- [x] Done HMM model.
 - [ ] Coding a project CI/CD pipeline.
 - [ ] Create first repo storing data pineline using python.
 - [ ] Mini project about airflow.
