@@ -1,11 +1,11 @@
 ### Hi, i'm Thinh 👋
 
-My target in 2022
+<!-- My target in 2022
 - [x] Done HMM model.
 - [ ] Coding a project CI/CD pipeline.
 - [ ] Create first repo storing data pineline using python.
 - [ ] Mini project about airflow.
-- [ ] A insightful kaggle notebook.(Domain economic, notebook and excel dashboard)
+- [ ] A insightful kaggle notebook.(Domain economic, notebook and excel dashboard) -->
 
 [![Thinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinh127&theme=dark)](https://github.com/Thinh127/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinh127&layout=compact&theme=dark)](https://github.com/Thinh127/github-readme-stats)
