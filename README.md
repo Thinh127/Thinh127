@@ -8,6 +8,7 @@
 - [ ] A insightful kaggle notebook.(Domain economic, notebook and excel dashboard) -->
 
 [![Thinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinh127&theme=dark)](https://github.com/Thinh127/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinh127&layout=compact&theme=dark)](https://github.com/Thinh127/github-readme-stats)
 
 <h4 align="left">Connect with me:</h4>
